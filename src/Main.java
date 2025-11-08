@@ -1,6 +1,6 @@
-//Brock Hughes
+//Brock H*****
 //ICS4U
-//Mrs. Twist
+//Mrs. *****
 //1/06/2025
 //Minesweeper With Visuals
 //This game is a fully functional recreation of the classic game "Minesweeper"
